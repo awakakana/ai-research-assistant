@@ -1,4 +1,5 @@
 # AI研究助手（ai-research-assistant）
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20110357.svg)](https://doi.org/10.5281/zenodo.20110357)
 
 > 一套开源的、以Prompt为核心的AI辅助研究工作流
 
